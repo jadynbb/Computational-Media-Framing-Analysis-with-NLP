@@ -476,12 +476,14 @@ Frequency Analysis   Topics    Sentiment
 ## Repository Structure
 
 ```text
-.
-├── Computational_Media_Framing_Analysis_NLP.ipynb
+│
+├── data/
+│   ├── news_articles.csv
+│   └── news_articles_with_text.csv
+│
 ├── Computational_Media_Framing_Analysis_NLP.py
-├── README.md
-├── news_articles.csv
-└── news_articles_with_text.csv
+├── Computational_Media_Framing_Analysis_NLP.ipynb
+└── README.md
 ```
 
 ---
