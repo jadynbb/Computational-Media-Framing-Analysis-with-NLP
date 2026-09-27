@@ -35,7 +35,7 @@ nltk.download("vader_lexicon")
 # LOAD DATA
 # ============================================================
 
-df = pd.read_csv("news_articles.csv")
+df = pd.read_csv("data/news_articles.csv")
 
 headers = {
     "User-Agent": "Mozilla/5.0"
