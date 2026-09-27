@@ -519,7 +519,7 @@ Several extensions could strengthen and expand this analysis:
 - Analyze additional months to determine whether framing changes as the conflict develops.
 - Add more international and regional news organizations.
 - Compare headlines against full article text.
-- 
+
 ---
 
 ## Author
