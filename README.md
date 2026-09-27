@@ -477,10 +477,11 @@ Frequency Analysis   Topics    Sentiment
 
 ```text
 .
-├── DH140_Final_Project.ipynb
+├── Computational_Media_Framing_Analysis_NLP.ipynb
+├── Computational_Media_Framing_Analysis_NLP.py
+├── README.md
 ├── news_articles.csv
-├── news_articles_with_text.csv
-└── README.md
+└── news_articles_with_text.csv
 ```
 
 ---
